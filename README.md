@@ -1,0 +1,2 @@
+# Fanstasy
+Trial and error
